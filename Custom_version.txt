@@ -2,3 +2,4 @@ version=v2026.09.04
 date=2026-09-04
 notes1=完善 All_WLab_Custom_Siding 定制插件安装提示
 notes2=优化定制工具与定制广场的使用说明
+notes3=尼氏细胞内点计数
